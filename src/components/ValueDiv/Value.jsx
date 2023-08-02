@@ -1,6 +1,6 @@
 import React from 'react'
 import simple from '../../Assets/simple.png'
-import better from '../../Assets/better.png'
+import better from '../../Assets/Better.png'
 import trust from '../../Assets/trust.png'
 
 
